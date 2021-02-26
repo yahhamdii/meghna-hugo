@@ -1,8 +1,8 @@
 ---
 title: Gâteux noisette chocolat
 date: 2018-09-12T12:52:36.000+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
+image_webp: "/images/131398582_408110223973864_543548173851043816_n.jpg"
+image: "/images/131539655_408110543973832_4258023450216913855_n.jpg"
 author: John Doe
 description: This is meta description
 
